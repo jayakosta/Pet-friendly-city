@@ -41,7 +41,7 @@ Some content and ideas were inspired by [CollegeTips.in’s PFC website](https:/
 
 ---
 
-## 📷 How to View
+##  How to View
 
 You can:
 1. Download the ZIP file and open `index.html` in your browser  
@@ -49,7 +49,7 @@ You can:
 
 ---
 
-## 📧 Contact
+##  Contact
 
 If you like this project or have suggestions, feel free to connect with me on GitHub!
 
